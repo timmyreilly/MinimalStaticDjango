@@ -2,7 +2,7 @@
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
-# Minimal Static Django Site Ready for Azure
+# [Minimal Static Django Site Ready for Azure](http://minimalstaticdjangosite.azurewebsites.net/)
 
 This is a minimal website for your imagination to take over. 
 
